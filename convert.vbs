@@ -90,7 +90,7 @@ Function SelectFolder( StartFolder )
     Dim objFolder, objItem, objShell
     
     'Define Starting folder
-    StartFolder = "\\cadserver\users\eng\dinsdale_m\"
+    StartFolder = ""
     
     ' Custom error handling
     On Error Resume Next
